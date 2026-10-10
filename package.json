@@ -1,0 +1,1 @@
+{"name":"qr","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"vite --host 0.0.0.0","build":"vite build","preview":"vite preview --host 0.0.0.0"},"dependencies":{"qr-code-styling":"1.9.2","vite":"7.1.9"}}
